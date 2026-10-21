@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Kumar 👋
 
-Backend-leaning full-stack engineer. I build internal tools that teams actually use — focused on clean APIs, pragmatic architecture, and shipping things that hold up once real security scrutiny is applied.
+Engineering Manager at AMD. Bangalore, India.
 
 ### Projects
 
